@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiberio Velasco</h1>
 - 💬 Ask me about **Express, NestJS and Sports ;)**
 
-- 📫 How to reach me **tiberiovlzn11@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
